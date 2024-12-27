@@ -1,16 +1,14 @@
-## Hi there 👋
+<!--Basic Bio Profile-->
 
-<!--
-**neribautista/neribautista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Nerissa!
 
-Here are some ideas to get you started:
+👨‍💻 Aspiring Software Developer | B.A. in Computing and Informatics @ Rowan University (2026)
+📍 Currently working on Django applications, Unity game development, and web-based projects.
+🚀 Passionate about building innovative tech solutions and advancing in cybersecurity.
+📚 Always learning and experimenting with new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Github stats -->
+[![Nerissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=neribautista&count_private=true&show_icons=true&theme=nightowl&hide_rank=false)](https://github.com/neribautista/github-readme-stats)
+
+
+

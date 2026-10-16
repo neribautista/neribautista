@@ -2,10 +2,12 @@
 
 ## 👋 Hi, I'm Nerissa!
 
-👨‍💻 Solutions Engineer @ Nalo Seed | Austin, TX)<br>
-📍 Currently working on Django applications, Unity game development, and web-based projects.<br>
-🚀 Passionate about building innovative tech solutions and advancing in cybersecurity.<br>
-📚 Always learning and experimenting with new technologies.
+👨‍💻 Solutions Engineer at **Nalo Seed** · Austin, TX
+
+- 🤖 Building AI-powered applications that solve real business problems
+- 🧠 Exploring how AI changes the way we build, learn, and work
+- 🎮 Making games in Unity for fun
+- 📚 Always learning new technologies and finding ways to put AI to work in them
 
 
 # 💻 Tech Stack:
